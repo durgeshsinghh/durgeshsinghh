@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Durgesh Singh, an aspiring AI Engineer and final-year Computer Science student.<br><br>🔭 Currently building JobPrep AI – an intelligent platform for personalized interview preparation  <br>👯 Open to collaborating on AI, NLP, and impactful ML projects  <br>🌱 Exploring Generative AI, LLMs, and MLOps  <br>💬 Ask me about Python, Machine Learning, and Data Science  <br>⚡ I enjoy solving real-world problems using AI 🚀  
+Hi 👋 I'm Durgesh Singh, an aspiring AI Engineer and final-year Computer Science student.<br><br>  <br>👯 Open to collaborating on AI, NLP, and impactful ML projects  <br>🌱 Exploring Generative AI, LLMs, and MLOps  <br>💬 Ask me about Python, Machine Learning, and Data Science  <br>⚡ I enjoy solving real-world problems using AI 🚀  
 
 
 ## 🌐 Socials:
