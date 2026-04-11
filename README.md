@@ -88,53 +88,6 @@ Docker + Kubernetes containerisation · CI/CD with GitHub Actions · AWS deploym
 </table>
 
 ---
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### AutoContent AI
-> Multi-agent LLM content generation system
-
-**Problem** — Manual content creation is slow, inconsistent, and unscalable for high-volume publishing.
-
-**Solution** — Agentic LangGraph workflow: research → draft → evaluate → optimize → publish. Self-correcting loop with structured Pydantic output.
-
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Result** — Content turnaround reduced from hours to seconds with quality-gated output.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durgeshsinghh)
-
-</td>
-<td width="50%" valign="top">
-
-### Tweet Generator · Agentic Loop
-> Self-evaluating tweet generation pipeline
-
-**Problem** — Generic tweet generators produce low-quality, non-viral content with zero quality control.
-
-**Solution** — Three-agent loop: Generator → Evaluator (structured output via Pydantic) → Optimizer. Iterates until tweet passes all quality gates or hits max retries.
-
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=python&logoColor=white)
-
-**Result** — Autonomous quality evaluation with measurable output improvement per iteration.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durgeshsinghh/tweet-generator)
-
-</td>
-</tr>
-</table>
-
----
-
 ## Tech Stack
 
 **AI / GenAI / LLM**
